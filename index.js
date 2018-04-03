@@ -29,4 +29,5 @@ function iLoveTheBeatles(number) {
     array.push(`${number[i]} I love the Beatles`)
     i++;
   } while (1 < numbers.length)
+  return array;
 }
